@@ -10,7 +10,7 @@
 
 <h2> 👨🏾‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b><h3>Microsoft Azure</h3></b>
   - [Configuring Active Directory with Azure Virtual Machines](https://github.com/ktabi/configure-ad)
   - [Network Security Groups (NSGs) and examining Network Protocols](https://github.com/ktabi/azure-network-protocols)
 <!--   - Network Security Groups (NSGs) and examining Network Protocols | [Link](https://github.com/ktabi/azure-network-protocols) -->
