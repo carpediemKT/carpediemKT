@@ -12,7 +12,6 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory with Azure Virtual Machines](https://github.com/ktabi/configure-ad)
-<!--   - Configuring Active Directory with Azure Virtual Machines | [Link](https://github.com/ktabi/configure-ad) -->
   - [Network Security Groups (NSGs) and examining Network Protocols](https://github.com/ktabi/azure-network-protocols)
 <!--   - Network Security Groups (NSGs) and examining Network Protocols | [Link](https://github.com/ktabi/azure-network-protocols) -->
 - <b>osTicket (Help Desk Ticketing System)</b>
