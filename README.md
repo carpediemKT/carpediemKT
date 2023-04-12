@@ -10,11 +10,11 @@
 
 <h2> 👨🏾‍💻 Information Technology Projects:</h2>
 
-- <b><h3>Microsoft Azure</h3></b>
+- <b><h4>Microsoft Azure</h4></b>
   - [Configuring Active Directory with Azure Virtual Machines](https://github.com/ktabi/configure-ad)
   - [Network Security Groups (NSGs) and examining Network Protocols](https://github.com/ktabi/azure-network-protocols)
 <!--   - Network Security Groups (NSGs) and examining Network Protocols | [Link](https://github.com/ktabi/azure-network-protocols) -->
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b><h4>osTicket (Help Desk Ticketing System)</h4></b>
   - [osTicket: Prerequisites and Installation](https://github.com/carpediemKT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/carpediemKT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/carpediemKT/ticket-lifecycle)
