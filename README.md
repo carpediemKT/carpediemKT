@@ -11,8 +11,9 @@
 <h2> 👨🏾‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory with Azure Virtual Machines](https://github.com/carpediemKT/configure-ad)
-  - [Network Security Groups (NSGs) and examining Network Protocols](https://github.com/carpediemKT/azure-network-protocols)
+<!--   - [Configuring Active Directory with Azure Virtual Machines](https://github.com/ktabi/configure-ad) -->
+  - Configuring Active Directory with Azure Virtual Machines (https://github.com/ktabi/configure-ad)
+  - [Network Security Groups (NSGs) and examining Network Protocols](https://github.com/ktabi/azure-network-protocols)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/carpediemKT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/carpediemKT/post-install-config)
