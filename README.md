@@ -4,8 +4,8 @@
 
 - <b>Full Stack Web App (Spring Boot, Java, MySQL, JSP)</b>
   - [Inventory Management App](https://github.com/carpediemKT/InventoryManagement)
-- <b>Full Stack Web App (React, Node JS, Express, MongoDB, Context, multer, JSON Web Tokens)</b>
-  - [Time Capsule](https://github.com/carpediemKT/TimeCapsule)
+<!-- - <b>Full Stack Web App (React, Node JS, Express, MongoDB, Context, multer, JSON Web Tokens)</b>
+  - [Time Capsule](https://github.com/carpediemKT/TimeCapsule) -->
 
 
 <h2> 👨🏾‍💻 Information Technology Projects:</h2>
