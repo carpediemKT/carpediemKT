@@ -17,4 +17,4 @@
 - <b><h4>osTicket (Help Desk Ticketing System)</h4></b>
   - [osTicket: Prerequisites and Installation](https://github.com/carpediemKT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/carpediemKT/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/carpediemKT/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/ktabi/ticket-lifecycle)
