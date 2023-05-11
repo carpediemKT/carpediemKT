@@ -8,9 +8,9 @@
   - [Time Capsule](https://github.com/ktabi/MERN_BLOG)
 
 
-<!-- <h2> 👨🏾‍💻 Information Technology Projects:</h2>
+ <h2> 👨🏾‍💻 Information Technology Projects:</h2>
 
- <b><h4>Microsoft Azure</h4></b>
+<!-- <b><h4>Microsoft Azure</h4></b>
   - [Configuring Active Directory with Azure Virtual Machines](https://github.com/ktabi/configure-ad) -->
  <!-- - - [Network Security Groups (NSGs) and examining Network Protocols](https://github.com/ktabi/azure-network-protocols) -->
 <!--   - Network Security Groups (NSGs) and examining Network Protocols | [Link](https://github.com/ktabi/azure-network-protocols) -->
